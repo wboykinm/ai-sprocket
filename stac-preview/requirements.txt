@@ -1,0 +1,9 @@
+numpy
+pandas
+geopandas
+pystac_client
+stackstac
+yaml
+matplotlib
+rasterio
+shapely
